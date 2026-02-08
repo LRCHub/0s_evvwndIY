@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "会いたいと願うのなら",
+  "base_artist": "the paddles",
+  "createdAt": "2026-02-08T13:12:17.268822Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "会いたいと願うのなら",
+      "artist": "the paddles",
+      "has_synced": false,
+      "path": "select/pl_01_会いたいと願うのなら_the_paddles.txt"
+    }
+  ]
+}
